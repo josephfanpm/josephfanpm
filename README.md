@@ -1,8 +1,6 @@
 Hi, I'm Joseph Fan, a Senior Product Manager in health tech marketplaces, ex-RN.
 
-I build two-sided marketplaces where the hard part is liquidity: getting the right nurse to the right shift, at the right price, reliably. At ESHYFT I own pricing, matching, and onboarding for a nurse staffing marketplace.
-
-Currently looking for Senior PM roles, US and Canada. My strongest work is in health tech and marketplaces, but I am not limiting myself to those, and I am applying more broadly too.
+I am a Senior Product Manager at ESHYFT, a nurse staffing marketplace, where I own pricing, matching, and onboarding. The hard part is liquidity: getting the right nurse to the right shift, at the right price, reliably.
 
 ## Featured work
 
