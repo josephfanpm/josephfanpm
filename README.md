@@ -8,7 +8,7 @@ I am a Senior Product Manager at ESHYFT, a nurse staffing marketplace, where I o
 |---|---|---|
 | [eshyft-1099](https://github.com/josephfanpm/eshyft-1099) | Moved a nurse marketplace from W-2 to 1099, with case study and interactive prototype | Revenue up over 80%, fill rate roughly doubled |
 | [sugarvalley](https://github.com/josephfanpm/sugarvalley) | A game that makes Type 1 diabetes management feel rewarding, with a friend or family member | Live prototype, built with clinical safety rules first |
-| [eshyft-calendar](https://github.com/josephfanpm/eshyft-calendar) | A calendar view so busy nurses can see open shifts on their free days | Beat list and map on shift applications, rolled out to every nurse |
+| [eshyft-calendar](https://github.com/josephfanpm/eshyft-calendar) | A calendar view so busy nurses can see open shifts on their free days | Ended up being the most popular view, used method of viewing shifts |
 | [eshyft-landing-redesign](https://github.com/josephfanpm/eshyft-landing-redesign) | Rebuilt a two-sided marketplace landing page around a personalised earnings estimate | Lighthouse 39 to 97 |
 
 Live demos: eshyft-1099 https://josephfanpm.github.io/eshyft-1099/ , sugarvalley https://josephfanpm.github.io/sugarvalley/ , eshyft-calendar https://josephfanpm.github.io/eshyft-calendar/ , landing redesign https://josephfanpm.github.io/eshyft-landing-redesign/
